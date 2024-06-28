@@ -23,3 +23,6 @@ w
 G.idea/sonarlint/issuestore/b/4/b483df27dfddbb405c09cb11ace08dbeaf234878,0/5/0511ba1f5908d023d4a35cd3147eba80bd9897a5
 \
 ,.idea/inspectionProfiles/Project_Default.xml,4/9/496a238a6afa168dbaf6efd37bb459331589579c
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
